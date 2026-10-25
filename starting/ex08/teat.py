@@ -1,5 +1,5 @@
 
-from Starting.ex08.Loading import ft_tqdm
+from Loading import ft_tqdm
 from time import sleep
 from tqdm import tqdm
 

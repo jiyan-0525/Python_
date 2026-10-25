@@ -1,6 +1,5 @@
 import sys
-
-from Starting.ex06.ft_filter import ft_filter
+from ft_filter import ft_filter
 
 def main():
     try:
