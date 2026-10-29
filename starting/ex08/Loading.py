@@ -1,6 +1,9 @@
+"""This is a simple program that simulates a progress bar."""
+
 import time
 
 def ft_tqdm(lst: range):
+    """Display a progress bar for the given iterable."""
     total = len(lst)
     bar_len = 60
     

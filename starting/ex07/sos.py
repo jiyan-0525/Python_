@@ -1,3 +1,4 @@
+"""This is a simple program that converts a string to Morse code."""
 import sys
 
 NESTED_MORSE = {
@@ -12,6 +13,7 @@ NESTED_MORSE = {
 }
 
 def main():
+    """Main function that converts a string to Morse code."""
     try:
         if len(sys.argv) != 2:
             raise AssertionError("the arguments are bad.")

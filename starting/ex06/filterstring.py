@@ -2,6 +2,7 @@ import sys
 from ft_filter import ft_filter
 
 def main():
+    """Main function that filters words in a string based on length."""
     try:
         if len(sys.argv) < 2:
             print("Usage: python filterstring.py <string>")
