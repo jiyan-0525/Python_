@@ -1,0 +1,4 @@
+Python automation makes daily work easier.
+Automation scripts read files, clean data, and call APIs.
+With python and a good automation plan, repetitive tasks disappear.
+Python automation is not magic, it is pure python practice.
